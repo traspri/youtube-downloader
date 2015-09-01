@@ -1,0 +1,16 @@
+{
+  "osx" : {
+    "title": "Traspri-YoutubeDownloader",
+    "background": "assets/osx/installer.png",
+    "icon": "assets/osx/mount.icns",
+    "icon-size": 80,
+    "contents": [
+      { "x": 200, "y": 80, "type": "link", "path": "/Applications" },
+      { "x": 20, "y": 80, "type": "file" }
+    ]
+  },
+  "win" : {
+    "title" : "Traspri-YoutubeDownloader",
+    "icon" : "assets/win/icon.ico"
+  }
+}
